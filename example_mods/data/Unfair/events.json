@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				47794.2857142857,
+				[
+					[
+						"Change Scroll Speed",
+						"1.25",
+						"0"
+					]
+				]
+			],
+			[
+				102651.428571429,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					],
+					[
+						"Play Animation",
+						"nuhuh",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"pingas",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

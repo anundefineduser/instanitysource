@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PIN_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PIN_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PIN_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PIN_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PIN_UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				27,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pingas",
+			"loop": false,
+			"name": "PIN_FINGER"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/pin_unfair",
+	"position": [
+		30,
+		170
+	],
+	"healthicon": "pin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		1,
+		0
+	],
+	"camera_position": [
+		-140,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rocky_unfair.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ROCKY_IDLE0000" x="1" y="1" width="482" height="479" frameX="-84" frameY="-106" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0001" x="1" y="1" width="482" height="479" frameX="-84" frameY="-106" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0002" x="486" y="1" width="621" height="390" frameX="0" frameY="-199" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0003" x="486" y="1" width="621" height="390" frameX="0" frameY="-199" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0004" x="1110" y="1" width="531" height="339" frameX="0" frameY="-251" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0005" x="1110" y="1" width="531" height="339" frameX="0" frameY="-251" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0006" x="1" y="483" width="507" height="458" frameX="-23" frameY="-127" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0007" x="1" y="483" width="507" height="458" frameX="-23" frameY="-127" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0008" x="511" y="483" width="506" height="585" frameX="-24" frameY="0" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0009" x="511" y="483" width="506" height="585" frameX="-24" frameY="0" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0010" x="511" y="483" width="506" height="585" frameX="-24" frameY="0" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0011" x="511" y="483" width="506" height="585" frameX="-24" frameY="0" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0012" x="511" y="483" width="506" height="585" frameX="-24" frameY="0" frameWidth="621" frameHeight="590"/>
+	<SubTexture name="ROCKY_IDLE0013" x="511" y="483" width="506" height="585" frameX="-24" frameY="0" frameWidth="621" frameHeight="590"/>
+</TextureAtlas>

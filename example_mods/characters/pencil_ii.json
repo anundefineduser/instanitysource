@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-169
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pencil_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-171
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pencil_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pencil_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-159
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pencil_UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-170
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pencil_RIGHT",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/pencil_ii",
+	"position": [
+		40,
+		-60
+	],
+	"healthicon": "pencil",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		169,
+		9
+	],
+	"camera_position": [
+		10,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.5,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="interveneyou.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="me!0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="me!0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="me!0002" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="me!0003" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="me!0004" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="me!0005" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="me!0006" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="me!0007" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="me!0008" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="me!0009" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="me!0010" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="me!0011" x="0" y="720" width="1280" height="720"/>
+</TextureAtlas>

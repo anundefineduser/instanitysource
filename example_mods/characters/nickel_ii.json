@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				-94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NICKEL_IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-94
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NICKEL_LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-94
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "NICKEL_LEFT_MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-105
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NICKEL_DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-103
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "NICKEL_DOWN_MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-95
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NICKEL_RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-95
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "NICKEL_RIGHT_MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-89
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NICKEL_UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-89
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "NICKEL_UP_MISS",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/nickel_ii",
+	"position": [
+		40,
+		300
+	],
+	"healthicon": "nickel",
+	"flip_x": true,
+	"healthbar_colors": [
+		152,
+		152,
+		152
+	],
+	"camera_position": [
+		10,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.5,
+	"_editor_isPlayer": true
+}
